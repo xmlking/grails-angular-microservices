@@ -1,0 +1,7 @@
+rootProject.name = 'grails-angular-microservices'
+
+include (
+		'oauth-server',
+		'grails-rest',
+		'grails-async'
+)
