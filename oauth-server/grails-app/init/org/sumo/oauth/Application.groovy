@@ -1,4 +1,4 @@
-package oauth.server
+package org.sumo.oauth
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration
