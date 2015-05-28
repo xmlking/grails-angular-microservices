@@ -7,6 +7,8 @@ class UrlMappings {
             }
         }
 
+        '/api/providers'(resources: 'provider')
+
         "/"(view:"/index")
         "500"(view:'/error')
         "404"(view:'/notFound')

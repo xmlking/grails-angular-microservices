@@ -98,3 +98,7 @@ environments:
             mongo:
                 createDrop: none
                 databaseName: sumo-prod
+---
+angular:
+    defaultPageSize: 25
+    dateFormat: MM/dd/yyyy
